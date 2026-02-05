@@ -1,4 +1,4 @@
-Nice start 👌 Here’s a clean, beginner-friendly **README.md** you can drop straight into your project.
+
 
 ---
 
